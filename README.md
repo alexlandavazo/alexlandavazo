@@ -10,16 +10,6 @@ Most of my work happens at Parsable. Outside of it, I build mobile apps with Rea
 
 ---
 
-### Other projects
-
-**Arena** (React Native, private repo, 450+ commits since Oct 2024)
-
-- An Expo 53 / React Native 0.79 app using Expo Router and TanStack Query, on top of AWS AppSync (GraphQL) with Cognito auth. GraphQL Codegen generates the types.
-- I built the match-day features: live scoring with period controls, a live stats and box score screen, the match detail redesign, and sharing a final result as an image.
-- I set up CI on GitHub Actions. Every PR runs lint, type-check and Jest gates. Other workflows run Maestro end-to-end flows, build Android APKs, and build iOS on EAS with automatic submission to TestFlight.
-- I build screens from Figma to code against a shared theme of design tokens (Unistyles), and all copy is translated with i18next.
-- I designed the repo's Claude Code setup: an orchestrator that hands work to five specialist agents (developer, test engineer, code reviewer, UI/UX designer, skill writer). About 18 project skills write down our conventions, and Jira and Figma are connected over MCP.
-
 **Personal projects**
 
 - **finance-app**: an Expo app with Google sign-in. Its API is built with Hono and runs on Cloudflare Workers with a D1 database.
