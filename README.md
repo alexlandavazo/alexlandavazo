@@ -5,7 +5,6 @@ I'm a Senior Software Engineer at **Parsable**, based in Hermosillo, Mexico. I'v
 Most of my work happens at Parsable. Outside of it, I build mobile apps with React Native and Expo, and I take them all the way from the first screen to TestFlight and Android builds. I also put a lot of effort into AI-assisted development, which means setting up repos so coding agents can work in them and still follow the team's conventions.
 
 - 💼 Senior Software Engineer at **Parsable**
-- 📱 Also building **Arena**, a mobile app for sports leagues: teams, schedules, live scoring and stats
 - 🌐 [jando.dev](https://jando.dev)
 - 🗣️ Spanish (native) · English (C1)
 
