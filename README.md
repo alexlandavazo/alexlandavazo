@@ -10,7 +10,7 @@ Most of my work happens at Parsable. Outside of it, I build mobile apps with Rea
 
 ---
 
-**Personal projects**
+### 🚀 Personal projects
 
 - **finance-app**: an Expo app with Google sign-in. Its API is built with Hono and runs on Cloudflare Workers with a D1 database.
 - **find-pet**: an Expo app for reporting and finding lost or found pets nearby. It's written spec-first, with mock data behind TanStack Query hooks, so a real API can plug in later without changing the screens.
@@ -18,7 +18,7 @@ Most of my work happens at Parsable. Outside of it, I build mobile apps with Rea
 
 ---
 
-### Tech I work with
+### 🧰 Tech I work with
 
 **Languages**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -57,7 +57,7 @@ Most of my work happens at Parsable. Outside of it, I build mobile apps with Rea
 
 ---
 
-### Experience
+### 💼 Experience
 
 **Senior Software Engineer · Parsable** (Remote · 2021 to present)
 - I joined as a Frontend Engineer and I'm now a Senior Software Engineer.
@@ -76,7 +76,7 @@ Most of my work happens at Parsable. Outside of it, I build mobile apps with Rea
 
 ---
 
-### Get in touch
+### 📫 Get in touch
 
 [![Website](https://img.shields.io/badge/jando.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://jando.dev)
 [![X](https://img.shields.io/badge/@alexlandavazo1-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/alexlandavazo1)
